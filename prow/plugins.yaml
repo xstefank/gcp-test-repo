@@ -1,0 +1,4 @@
+plugins:
+  xstefank/gcp-test-repo:
+  - size
+
